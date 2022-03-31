@@ -16,9 +16,8 @@ Soy un Desarrollador Web super apasionado por el desarrollo de software y el apr
 <br/>
 
 ### Contactame 😃:
-<a href="mailto:julian.martinez.n@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-<img src="">
-<img src="">
+<a href="mailto:julian.martinez.n@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/julian-martinez-nu%C3%B1ez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **JulianMartinezx/JulianMartinezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
