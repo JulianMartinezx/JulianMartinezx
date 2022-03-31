@@ -1,6 +1,7 @@
 ## Hola Mundo, soy Julian!👦💻🚀
 
 ![me](https://user-images.githubusercontent.com/55161409/160978651-921e963b-b6ec-4d22-8717-bdc05f5a385b.png)
+Soy un Desarrollador Web super apasionado por el desarrollo de software y el aprendizaje de nuevas tecnologías. Me encanta trabajar tanto en equipo como solo, y si es mediante metodologías ágiles como Scrum muchísimo mejor. Actualmente estoy profundizando en el mundo de React.js y me llama mucho la atención el proceso de desarrollo de aplicaciones moviles. Mi objetivo es que en los proximos meses y años este perfil crezca y se llene de proyectos tan interesantes y potentes como sea posible.🔥
 
 <!--
 **JulianMartinezx/JulianMartinezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
