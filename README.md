@@ -12,6 +12,13 @@ Soy un Desarrollador Web super apasionado por el desarrollo de software y el apr
 
 ### Otras Herramientas y Tecnologías
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+
+<br/>
+
+### Contactame 😃:
+<a href="mailto:julian.martinez.n@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<img src="">
+<img src="">
 <!--
 **JulianMartinezx/JulianMartinezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
