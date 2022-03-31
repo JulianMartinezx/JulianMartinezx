@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola Mundo, soy Julian!👦💻🚀
+
+![me](https://user-images.githubusercontent.com/55161409/160978651-921e963b-b6ec-4d22-8717-bdc05f5a385b.png)
 
 <!--
 **JulianMartinezx/JulianMartinezx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
